@@ -12,10 +12,6 @@ TODO - add gif
 By default the `ctrl + i ctrl + c` keybinding is used. This executes the
 `CodeHeader` function which will turn your text into a code comment heading.
 
-## Release Notes
+## Releases
 
-Below are the releases for the application
-
-### 0.0.1
-
-First ever release, very basic. Something working.
+Please see all changes in the [CHANGELOG.md](./CHANGELOG.md)
