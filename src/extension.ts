@@ -3,6 +3,7 @@ import * as vscode from "vscode";
 const languageComment = new Map([
   // language particular comments
   ["terraform", "#"],
+  ["yaml", "#"],
 ]);
 
 export function activate(context: vscode.ExtensionContext) {
